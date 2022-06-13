@@ -31,3 +31,6 @@
 @import url(../blocks/place/places.css);
 @import url(../blocks/places/places.css);
 @import url(../blocks/root/root.css);
+@import url(../blocks/header/__lang-link/__en/header__lang-link__en.css);
+@import url(../blocks/header/__lang-link/__ru/header__lang-link__ru.css);
+@import url(../blocks/cover/__item/cover__item.css);
