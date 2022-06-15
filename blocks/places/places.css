@@ -4,6 +4,6 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 92px;
-    display: flex;
-    flex-direction: column;
+    max-width: 984px;
+    max-height: 3392px;
 }
