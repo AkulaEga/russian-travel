@@ -1,8 +1,1 @@
-.place__column {
-    display: flex;
-    flex-direction: column;
-    margin: 0;
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    margin-left: 32px;
-}
+.place__column {}
