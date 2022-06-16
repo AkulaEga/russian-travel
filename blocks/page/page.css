@@ -9,7 +9,7 @@
     flex-direction: column;
     margin: 0 auto;
     padding: 28px 0 24px;
-    font-family: "Inter", Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
 }
 
 @media screen and (max-width:568px) {
