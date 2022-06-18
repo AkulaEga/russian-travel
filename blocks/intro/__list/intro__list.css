@@ -2,7 +2,9 @@
     margin-top: 0;
     font-size: 12px;
     line-height: 18px;
-    font-weight: normal;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
 }
 
 @media screen and (max-width:568px) {
