@@ -4,12 +4,21 @@
     font-size: 54px;
     font-weight: bold;
     margin-bottom: 20px;
+    max-width: 690px;
+}
+
+@media screen and (max-width:984px) {
+    .intro__title {
+        min-height: 58px;
+        max-width: 720px;
+    }
 }
 
 @media screen and (max-width:568px) {
     .intro__title {
         font-size: 32px;
         line-height: 35px;
-        min-height: 70px;
+        min-height: 58px;
+        max-width: 720px;
     }
 }

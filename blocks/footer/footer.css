@@ -1,7 +1,8 @@
 .footer {
     margin: 0;
     max-width: 1184px;
-    max-height: 18px;
+    min-height: 18px;
+    margin: 92px 48px;
     margin-left: 48px;
     margin-right: 48px;
     display: flex;
@@ -9,10 +10,16 @@
     font-family: 'Inter', sans-serif;
 }
 
+@media screen and (max-width:1140px) {
+    .footer {
+        max-width: 928px;
+    }
+}
+
 @media screen and (max-width:984px) {
     .footer {
-        margin-left: 24px;
-        margin-right: 24px;
+        margin: 90px 24px;
+        max-width: 720px;
     }
 }
 
@@ -22,5 +29,6 @@
         align-content: space-between;
         flex-wrap: wrap;
         max-width: 186px;
+        margin: 64px 118px 0 16px;
     }
 }
