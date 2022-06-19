@@ -1,3 +1,9 @@
 .lead__text {
     text-align: center;
 }
+
+@media screen and (max-width:568px) {
+    .lead__text {
+        max-width: 320px;
+    }
+}
