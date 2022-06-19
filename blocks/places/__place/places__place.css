@@ -33,7 +33,7 @@
         }
     }
     
-    @media screen and (max-width:568px) {
+    @media screen and (max-width:726px) {
         .place {
             grid-template-columns: 320px;
             grid-template-rows: repeat(4, auto);

@@ -9,7 +9,7 @@
     }
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width:726px) {
     .place__image {
         min-width: 320px;
         min-height: 320px;

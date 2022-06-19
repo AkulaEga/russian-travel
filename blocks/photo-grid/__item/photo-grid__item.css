@@ -1,6 +1,5 @@
 .photo-grid__item {
     max-width: 284px;
-    object-fit: cover;
 }
 
 @media screen and (max-width: 1140px) {
@@ -15,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 726px) {
     .photo-grid__item {
         max-width: 288px;
     }
