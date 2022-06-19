@@ -2,7 +2,7 @@
     margin: 0;
     max-width: 1184px;
     min-height: 18px;
-    margin: 92px 48px;
+    margin: 92px 48px 0;
     display: flex;
     justify-content: space-between;
     font-family: 'Inter', sans-serif;
