@@ -1,0 +1,16 @@
+.header__lang-link_active {
+    margin-right: 18px;
+    max-width: 30px;
+    min-height: 28px;
+}
+
+@media screen and (max-width:568px) {
+    .header__lang-link_active {
+        max-width: 22px;
+        min-height: 20px;
+    }
+}
+
+.header__lang-link_active::first-child {
+    text-decoration: underline;
+}

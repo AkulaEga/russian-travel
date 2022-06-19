@@ -3,9 +3,13 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 26px;
+    line-height: 29px;
     margin: 0;
     margin-bottom: 26px;
+}
+
+.place__paragraph:last-of-type {
+    margin-bottom: 0;
 }
 
 @media screen and (max-width:984px) {
@@ -13,7 +17,6 @@
         font-size: 16px;
         line-height: 26px;
         max-width: 352px;
-        margin-right: 24px;
     }
 }
 
