@@ -6,9 +6,10 @@
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
-    line-height: 12px;
+    line-height: 20px;
     max-width: 456px;
     min-height: 12px;
     color: #AAAAAA;
     margin-bottom: 12px;
+    letter-spacing: 2px;
 }

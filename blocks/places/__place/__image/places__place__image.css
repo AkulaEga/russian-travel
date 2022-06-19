@@ -8,3 +8,10 @@
         min-height: 340px;
     }
 }
+
+@media screen and (max-width:568px) {
+    .place__image {
+        min-width: 320px;
+        min-height: 320px;
+    }
+}
