@@ -2,6 +2,10 @@
     text-decoration: underline;
 }
 
+.header__lang-link_active:first-child {
+    text-decoration: underline;
+}
+
 @media screen and (max-width:568px) {
     .header__lang-link_active {
         max-width: 22px;
