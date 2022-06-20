@@ -1,6 +1,5 @@
 .intro {
     max-width: 690px;
-    min-height: 429px;
     margin-left: 148px;
 }
 
@@ -22,6 +21,5 @@
     .intro {
         max-width: 288px;
         margin: 0 auto;
-        min-height: 754px;
     }
 }
