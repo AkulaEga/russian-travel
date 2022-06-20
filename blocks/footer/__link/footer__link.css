@@ -9,7 +9,7 @@
     margin-right: 18px;
 }
 
-@media screen and (max-width:568px) {
+@media screen and (max-width:726px) {
     .footer__link {
         display: flex;
         flex-wrap: nowrap;
